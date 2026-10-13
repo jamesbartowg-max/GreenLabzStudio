@@ -24,3 +24,8 @@ dist-ssr
 *.sw?
 
 .vercel
+
+# Lokale Zugangsdaten (nie einchecken)
+.env
+.env.*
+!.env.example
